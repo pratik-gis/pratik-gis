@@ -37,7 +37,7 @@ Some of my recent writing:
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjZmZmIi8+PHJlY3QgeD0iMTMiIHk9IjEiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9IjEiIHk9IjEzIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIxMyIgeT0iMTMiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2ZmZiIvPjwvc3ZnPgo=&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000?&logo=macos&logoColor=white)
 
 ### Backend
