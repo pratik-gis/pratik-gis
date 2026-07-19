@@ -11,13 +11,11 @@ I build end-to-end geospatial systems — from raw satellite scenes to the pixel
 - 🔭 Engineering Manager based in Bengaluru, India, leading client platforms & applications
 - 🌱 Currently building data-intensive geospatial applications with Python, Kubernetes, and modern web stacks
 - ⚙️ Recently designed a Kubernetes processing framework that cut processing time and resource usage by over 70%
-- ✍️ I write about GIS, remote sensing, and spatial data engineering on [Medium](https://pratik-mahadik5.medium.com/)
 - 🥅 2026 Goals: Study and contribute to open-source geospatial projects
 - ⚡ Fun fact: I love to play Chess ♟️
 
 ## &#x270d; Blogs
-Apart from coding, I also maintain a blog - you can find my articles on 
-[![Medium](https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white)](https://pratik-mahadik5.medium.com/)
+Apart from coding, I also maintain a GIS, remote sensing, and spatial data engineering blog - you can find my articles on 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pratik--gis.github.io-2ea44f?&logo=githubpages&logoColor=white)](https://pratik-gis.github.io/)
 
 Some of my recent writing:
