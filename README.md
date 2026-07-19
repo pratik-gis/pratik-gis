@@ -38,11 +38,14 @@ Some of my recent writing:
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000?&logo=macos&logoColor=white)
 
 ### Backend
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-000?&logo=celery&logoColor=37814A)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
@@ -50,6 +53,9 @@ Some of my recent writing:
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?&logo=Bootstrap)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=02569B)
 
 ### Cloud & DevOps
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=google-cloud)
@@ -77,10 +83,12 @@ Some of my recent writing:
 ![OpenDataCube](https://img.shields.io/badge/OpenDataCube-1f425f.svg?)
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-1f425f.svg?)
 ![Leaflet](https://img.shields.io/badge/Leaflet-1f425f.svg?&logo=leaflet)
+![MapLibre](https://img.shields.io/badge/MapLibre-1f425f.svg?&logo=maplibre)
 ![QGIS](https://img.shields.io/badge/QGIS-1f425f.svg?&logo=qgis)
 ![ARCGIS](https://img.shields.io/badge/ARCGIS-1f425f.svg?)
 ![ERDAS Imagine](https://img.shields.io/badge/ERDAS%20Imagine-1f425f.svg?)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-1f425f.svg?)
+![WhiteboxTools](https://img.shields.io/badge/WhiteboxTools-1f425f.svg?)
 
 ### Servers
 ![Geoserver](https://img.shields.io/badge/Geoserver-1f425f.svg?)
